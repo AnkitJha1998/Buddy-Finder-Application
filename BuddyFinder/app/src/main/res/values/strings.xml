@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buddy Finder</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="loc_info">Location is shared by your app to the servers. People in your groups can see your location. If you choose to not display your location, turn off location sharing. Be warned, if location is turned off, your friends CAN NOT track you in your expedition untill you turn it on.</string>
+    <string name="channel_name">Location Sharing</string>
+    <string name="channel_desc">Location is shared to the server. Go to Location Sharing Preference to disable Location Sharing</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

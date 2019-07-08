@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <!--
+    <item android:title="Create New Group" android:id="@+id/new_group" android:icon="@drawable/ic_add_black_24dp"/>
+    -->
+
+    <item android:id="@+id/acc_setting" android:title="Account Settings" android:icon="@drawable/ic_account_circle_black_24dp" />
+    <item android:id="@+id/loc_setting" android:title="Location Sharing Preference" android:icon="@drawable/ic_location_on_black_24dp" />
+    <item android:id="@+id/log_out" android:title="Log Out" android:icon="@drawable/ic_power_settings_new_black_24dp" />
+
+
+</menu>

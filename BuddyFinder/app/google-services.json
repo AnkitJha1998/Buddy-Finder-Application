@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015637281237",
+    "firebase_url": "https://buddyfinder-d632b.firebaseio.com",
+    "project_id": "buddyfinder-d632b",
+    "storage_bucket": "buddyfinder-d632b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015637281237:android:f33d25b70548424d",
+        "android_client_info": {
+          "package_name": "com.example.ankitjha.buddyfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015637281237-lufctaqg0ku4a7qe3246jbu5k2ms965p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankitjha.buddyfinder",
+            "certificate_hash": "e194de3069bd21030260d5897174d82eb9b45a80"
+          }
+        },
+        {
+          "client_id": "1015637281237-pjom8vhebmt7958epheebd3p21jtinuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVh4K29MidrUmhjQcvUKiqP3W44r6wyDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015637281237-pjom8vhebmt7958epheebd3p21jtinuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/del_grp" android:title="Delete Group" />
+    <item android:id="@+id/rem_me" android:title="Remove Myself" />
+    <item android:id="@+id/rem_friend" android:title="Remove a friend" />
+
+</menu>
