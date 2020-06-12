@@ -63,6 +63,7 @@ Screenshots of other friends
 ![friend1](https://user-images.githubusercontent.com/37044020/84533518-e5cbc580-ad05-11ea-8624-4901f0c5c90f.png)
 
 <br>
+
 ![friend2](https://user-images.githubusercontent.com/37044020/84533523-e6fcf280-ad05-11ea-8cda-a18ed7732215.png)
 
 <br>
