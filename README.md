@@ -3,66 +3,79 @@ This application is designed for native android phones. It is a perfect applicat
 
 Log In Screen
 
-![logInScreen](https://user-images.githubusercontent.com/37044020/60838901-78581080-a1e9-11e9-8396-26ebbc3f84d4.png)
+![Log In Image](https://user-images.githubusercontent.com/37044020/84533533-e95f4c80-ad05-11ea-97c9-6d68250ed0bc.png)
 
+<br>
 
 After LogIn, The Home Screen Looks Like this
 
-![homeScreen](https://user-images.githubusercontent.com/37044020/60838931-8f96fe00-a1e9-11e9-9bc6-ff4bbb668970.png)
+![Welcome Screen](https://user-images.githubusercontent.com/37044020/84533511-e3696b80-ad05-11ea-8f28-1efc48a9446b.png)
 
+<br>
 
 The navigation View looks like this
 
-![navigationView](https://user-images.githubusercontent.com/37044020/60838960-a178a100-a1e9-11e9-876b-9b5ef81f7560.png)
+![Navigation View](https://user-images.githubusercontent.com/37044020/84533534-e95f4c80-ad05-11ea-9aca-a4d82a79d682.png)
 
+<br>
 
 
 To change account Settings, We tap on Account Settings, where we see this screen
 
-![AccSettings](https://user-images.githubusercontent.com/37044020/60839018-c10fc980-a1e9-11e9-93d7-fa06593e3df1.png)
+![Acc Settings](https://user-images.githubusercontent.com/37044020/84533513-e3696b80-ad05-11ea-904b-5be8a0a73128.png)
 
+<br>
 
 We can choose to either share or prevent sharing our location on our servers.
 
-![locPreference](https://user-images.githubusercontent.com/37044020/60839060-e00e5b80-a1e9-11e9-938d-736f48359eb7.png)
+![LocPreference](https://user-images.githubusercontent.com/37044020/84533531-e8c6b600-ad05-11ea-84bf-44b02cbe6d89.png)
 
+<br>
 
 Now, to create group, we tap on hover button and give name and select members. The screenshot depicts that
 
-![newGroup](https://user-images.githubusercontent.com/37044020/60839126-059b6500-a1ea-11e9-9601-728cc2145d33.png)
+![New Group](https://user-images.githubusercontent.com/37044020/84533507-e1071180-ad05-11ea-8997-65219b4afcda.png)
 
+<br>
 
 After group is created, we go to that group. The group view looks like this.
 
-![groupView](https://user-images.githubusercontent.com/37044020/60839180-2499f700-a1ea-11e9-9edf-0fa02f3c8599.png)
+![GroupView](https://user-images.githubusercontent.com/37044020/84533529-e82e1f80-ad05-11ea-9963-21ec294da397.png)
 
+<br>
 
 The admin can set the destination of the group. For setting a point as destination, he needs to long tap on the point and confirm it.
 
-![settingDest](https://user-images.githubusercontent.com/37044020/60839566-19939680-a1eb-11e9-9f3a-ec96324a2edc.png)
+![Setting Dest](https://user-images.githubusercontent.com/37044020/84533510-e2d0d500-ad05-11ea-8e19-b47e711e9725.png)
 
+<br>
 
 Setting a destination is not a compulsion, but it gives an idea to the team where we are going.
 Now we can see ourselves on the map.
 Screenshot of the destination viewed on the map.
 
-![lookingForDest](https://user-images.githubusercontent.com/37044020/60839647-4ba4f880-a1eb-11e9-8094-06ca5e36af5e.png)
+![Our Destination](https://user-images.githubusercontent.com/37044020/84533508-e2383e80-ad05-11ea-8d5f-64b910e61056.png)
 
+<br>
 
 Screenshots of other friends
 
-![friend1](https://user-images.githubusercontent.com/37044020/60839702-6a0af400-a1eb-11e9-889b-1b48d84647c8.png)
+![friend1](https://user-images.githubusercontent.com/37044020/84533518-e5cbc580-ad05-11ea-8624-4901f0c5c90f.png)
 
-![friend2](https://user-images.githubusercontent.com/37044020/60839711-6ecfa800-a1eb-11e9-8bfb-6a2cb05e9ce5.png)
+<br>
+![friend2](https://user-images.githubusercontent.com/37044020/84533523-e6fcf280-ad05-11ea-8cda-a18ed7732215.png)
 
+<br>
 
 
 Detailed overview of map with destination and friends
 
-![everyone](https://user-images.githubusercontent.com/37044020/60839797-a3436400-a1eb-11e9-9265-2b8332497705.png)
+![everyone](https://user-images.githubusercontent.com/37044020/84533516-e49a9880-ad05-11ea-98f3-8040a63757b4.png)
 
+<br>
 
 The admin's path can be tracked and on long tap, it is shown on map. Below screenshots display the paty taken by the admin in real time.
 
-![pathAdmin](https://user-images.githubusercontent.com/37044020/60839854-cc63f480-a1eb-11e9-8657-02eedfbce8e5.png)
+![admin Path](https://user-images.githubusercontent.com/37044020/84533515-e4020200-ad05-11ea-9ca4-5d725d3945b0.png)
 
+<br>
