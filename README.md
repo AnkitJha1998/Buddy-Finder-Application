@@ -75,7 +75,7 @@ Detailed overview of map with destination and friends
 
 <br>
 
-The admin's path can be tracked and on long tap, it is shown on map. Below screenshots display the paty taken by the admin in real time.
+The admin's path can be tracked and on long tap, it is shown on map. Below screenshots display the path taken by the admin in real time.
 
 ![admin Path](https://user-images.githubusercontent.com/37044020/84533515-e4020200-ad05-11ea-9ca4-5d725d3945b0.png)
 
